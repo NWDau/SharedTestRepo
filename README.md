@@ -11,7 +11,7 @@ Unless otherwise specified, you may assume that your current working directory i
 
 ### Directories
 1. What bash command prints your current working directory? 
-
+test answer
 1. What directory is `~` a shortcut for?  What does it mean?
 
 1. Write a bash command that creates the directory `assignments` in your home directory.
